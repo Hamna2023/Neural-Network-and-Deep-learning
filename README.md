@@ -1,4 +1,4 @@
-# Deep Learning Project: Step-by-Step Guide to Building Neural Networks
+# Deep Learning Project: Building Neural Networks
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
